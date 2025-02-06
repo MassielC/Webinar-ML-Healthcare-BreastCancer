@@ -1,6 +1,6 @@
 # Applications of Machine Learning in Python for Modern Biomedicine
 
-This repository contains the materials used in the free webinar **"Applications of Machine Learning in Python for Modern Biomedicine: Case Study"**, organized in collaboration with [LyNbiolearning](https://www.instagram.com/lynbiolearning/). Both lecture an practical sections were included. 
+This repository contains the materials I implemented for the free introductory webinar **"Applications of Machine Learning in Python for Modern Biomedicine: Case Study"**, organized in collaboration with [LyNbiolearning](https://www.instagram.com/lynbiolearning/). Both lecture an practical sections were included. 
 - **Presentation Link:** [Presentation](https://www.canva.com/design/DAGN9dqjbrU/I6QN8iP7SRzzv5cyU0S4ZQ/view?utm_content=DAGN9dqjbrU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb620713cd) 
 
 ## 📌 Webinar Description
